@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
 
         <p>
-          hello
+          hello my main
         </p>
 
           Learn React
