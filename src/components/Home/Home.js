@@ -10,7 +10,7 @@ import { FaLinkedinIn } from "react-icons/fa";
 
 import Type from "./Type";
 
-import Particle from "./Particle";
+import Particle from "../Particle";
 
 
 function Home() {
