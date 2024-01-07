@@ -1,5 +1,15 @@
 [  
   {
+    "imgPath": "IntelligentObjectGraspinginIndustrialRobotics.png",
+    "title": "Intelligent Object Grasping in Industrial Robotics",
+    "description": "This work explores the potential of deep reinforcement learning for industrial robots in object grasping tasks. The objectives are to develop an efficient agent using Deep RL and establish a flexible framework for diverse industrial situations while maintaining low overhead compared to original solutions",
+    "hasGithubLink": false,
+    "ghLink": "TODO",
+    "hasOtherLink": true,
+    "OtherLinkTitle": "Link",
+    "OtherLink": "https://www.politesi.polimi.it/handle/10589/215163"
+  },
+  {
     "imgPath": "MultiModelBibliographicDatabaseSystem.png",
     "title": "Multi-Model Bibliographic Database System",
     "description": "The project focuses on designing databases, inspired by systems like DBLP, to store bibliographic information on journals, papers, and authors. Different data management systems are analyzed using GraphDB (neo4j), DocumentalDB (mongoDB), and Computational Engine (Spark).",
