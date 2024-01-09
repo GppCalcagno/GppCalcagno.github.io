@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1944ed05.css",
-    "main.js": "/static/js/main.0d2a873b.js",
+    "main.js": "/static/js/main.b9820adf.js",
     "static/js/787.5135fc50.chunk.js": "/static/js/787.5135fc50.chunk.js",
     "static/media/FPGAforImageHistogramEqualization.png": "/static/media/FPGAforImageHistogramEqualization.8f7c70ffefc68e3464ad.png",
     "static/media/SmartBraceletsforChildren.png": "/static/media/SmartBraceletsforChildren.cf5296a2a8cb09542a73.png",
@@ -18,11 +18,11 @@
     "static/media/pre.svg": "/static/media/pre.d0e7eae5ff81a57a153f.svg",
     "index.html": "/index.html",
     "main.1944ed05.css.map": "/static/css/main.1944ed05.css.map",
-    "main.0d2a873b.js.map": "/static/js/main.0d2a873b.js.map",
+    "main.b9820adf.js.map": "/static/js/main.b9820adf.js.map",
     "787.5135fc50.chunk.js.map": "/static/js/787.5135fc50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1944ed05.css",
-    "static/js/main.0d2a873b.js"
+    "static/js/main.b9820adf.js"
   ]
 }
