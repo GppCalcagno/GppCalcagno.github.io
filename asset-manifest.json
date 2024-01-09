@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1944ed05.css",
-    "main.js": "/static/js/main.b9820adf.js",
+    "main.js": "/static/js/main.cdcacf6b.js",
     "static/js/787.5135fc50.chunk.js": "/static/js/787.5135fc50.chunk.js",
     "static/media/FPGAforImageHistogramEqualization.png": "/static/media/FPGAforImageHistogramEqualization.8f7c70ffefc68e3464ad.png",
     "static/media/SmartBraceletsforChildren.png": "/static/media/SmartBraceletsforChildren.cf5296a2a8cb09542a73.png",
@@ -10,6 +10,7 @@
     "static/media/NeuralNetworkClassification.png": "/static/media/NeuralNetworkClassification.9f5bbd59b8a2da7317ed.png",
     "static/media/home-bg-blu.png": "/static/media/home-bg-blu.6185dce57593c4685de1.png",
     "static/media/IntelligentObjectGraspinginIndustrialRobotics.png": "/static/media/IntelligentObjectGraspinginIndustrialRobotics.9700ddedc282c16073b3.png",
+    "static/media/AIEnhancedWebBookstore.png": "/static/media/AIEnhancedWebBookstore.0b895f1394cae38d921e.png",
     "static/media/JavaBoardGamePorting.png": "/static/media/JavaBoardGamePorting.4a1e6a82e024ad799650.png",
     "static/media/CommUNIty.png": "/static/media/CommUNIty.db6ca7c85c44a9367070.png",
     "static/media/CryptographicPerformanceImpact.png": "/static/media/CryptographicPerformanceImpact.0ca44684cd5cef1981a0.png",
@@ -18,11 +19,11 @@
     "static/media/pre.svg": "/static/media/pre.d0e7eae5ff81a57a153f.svg",
     "index.html": "/index.html",
     "main.1944ed05.css.map": "/static/css/main.1944ed05.css.map",
-    "main.b9820adf.js.map": "/static/js/main.b9820adf.js.map",
+    "main.cdcacf6b.js.map": "/static/js/main.cdcacf6b.js.map",
     "787.5135fc50.chunk.js.map": "/static/js/787.5135fc50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1944ed05.css",
-    "static/js/main.b9820adf.js"
+    "static/js/main.cdcacf6b.js"
   ]
 }
