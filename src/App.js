@@ -13,10 +13,10 @@ import ScrollToTop from "./components/ScrollToTop";
 
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes,
-  //Navigate <Navbar />
+  
 } from "react-router-dom";
 
 
@@ -36,7 +36,7 @@ function App() {
     <Router>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
-      <Navbar />
+        <Navbar />
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<Home />} />

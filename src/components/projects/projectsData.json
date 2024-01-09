@@ -1,4 +1,14 @@
-[  
+[
+  {
+    "imgPath": "AIEnhancedWebBookstore.png",
+    "title": "AI-Enhanced-Web-Bookstore",
+    "description": "This project is a web-based bookstore application developed. The application includes standard CRUD operations for managing books and incorporates an AI-based feature. The communication between the front-end and back-end is implemented using REST APIs.",
+    "hasGithubLink": true,
+    "ghLink": "https://github.com/GppCalcagno/AI-Enhanced-Web-Bookstore",
+    "hasOtherLink": false,
+    "OtherLinkTitle": "",
+    "OtherLink": ""
+  },
   {
     "imgPath": "IntelligentObjectGraspinginIndustrialRobotics.png",
     "title": "Intelligent Object Grasping in Industrial Robotics",
@@ -78,5 +88,5 @@
     "hasOtherLink": true,
     "OtherLinkTitle": "Real Game ",
     "OtherLink": "https://boardgamegeek.com/boardgame/280453/masters-renaissance-lorenzo-il-magnifico-card-game"
-  } 
-  ]
+  }
+]
