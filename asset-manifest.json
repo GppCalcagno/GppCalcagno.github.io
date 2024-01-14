@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.1944ed05.css",
-    "main.js": "/static/js/main.cdcacf6b.js",
+    "main.css": "/static/css/main.9f65a394.css",
+    "main.js": "/static/js/main.c5b5faba.js",
     "static/js/787.5135fc50.chunk.js": "/static/js/787.5135fc50.chunk.js",
+    "static/media/avatar.png": "/static/media/avatar.206f49c87caebf722b72.png",
     "static/media/FPGAforImageHistogramEqualization.png": "/static/media/FPGAforImageHistogramEqualization.8f7c70ffefc68e3464ad.png",
     "static/media/SmartBraceletsforChildren.png": "/static/media/SmartBraceletsforChildren.cf5296a2a8cb09542a73.png",
+    "static/media/aboutme.png": "/static/media/aboutme.14c247ac464e31cdfa76.png",
     "static/media/MultiModelBibliographicDatabaseSystem.png": "/static/media/MultiModelBibliographicDatabaseSystem.ee492380fa826dbc2f8d.png",
     "static/media/EcommercewithJavaandSQL.png": "/static/media/EcommercewithJavaandSQL.dc8c53b84cd0ecd827f0.png",
     "static/media/NeuralNetworkClassification.png": "/static/media/NeuralNetworkClassification.9f5bbd59b8a2da7317ed.png",
@@ -14,16 +16,15 @@
     "static/media/JavaBoardGamePorting.png": "/static/media/JavaBoardGamePorting.4a1e6a82e024ad799650.png",
     "static/media/CommUNIty.png": "/static/media/CommUNIty.db6ca7c85c44a9367070.png",
     "static/media/CryptographicPerformanceImpact.png": "/static/media/CryptographicPerformanceImpact.0ca44684cd5cef1981a0.png",
-    "static/media/avatar.svg": "/static/media/avatar.7e87a7324286a569ff1425b15d3ce484.svg",
     "static/media/home2.svg": "/static/media/home2.9f186dc54afb6e6eb2905d2a6e4890de.svg",
     "static/media/pre.svg": "/static/media/pre.d0e7eae5ff81a57a153f.svg",
     "index.html": "/index.html",
-    "main.1944ed05.css.map": "/static/css/main.1944ed05.css.map",
-    "main.cdcacf6b.js.map": "/static/js/main.cdcacf6b.js.map",
+    "main.9f65a394.css.map": "/static/css/main.9f65a394.css.map",
+    "main.c5b5faba.js.map": "/static/js/main.c5b5faba.js.map",
     "787.5135fc50.chunk.js.map": "/static/js/787.5135fc50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1944ed05.css",
-    "static/js/main.cdcacf6b.js"
+    "static/css/main.9f65a394.css",
+    "static/js/main.c5b5faba.js"
   ]
 }
