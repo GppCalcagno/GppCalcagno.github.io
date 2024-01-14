@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home2.svg";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.png";
 
 import Tilt from "react-parallax-tilt";
 
@@ -71,7 +71,7 @@ tech landscape.
               <br />
               In addition
 to my technical pursuits, I have interest in the <span className="purple">personal improvement field </span>. This dedication extends beyond the realm of code, as I believe that a
-well‑rounded individual contributes more meaningfully to the world around him
+well‑rounded individual contributes more meaningfully to the world around him.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

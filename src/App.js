@@ -7,6 +7,7 @@ import Home from "./components/Home/Home";
 import Footer from "./components/Footer";
 
 import Projects from "./components/projects/Projects";
+import About from "./components/About/About";
 
 import Preloader from "../src/components/Pre";
 import ScrollToTop from "./components/ScrollToTop";
@@ -41,6 +42,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />
+          <Route path="/about" element={<About />} />
         </Routes>
         <Footer />
       </div>
