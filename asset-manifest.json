@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f65a394.css",
-    "main.js": "/static/js/main.a9aa8c13.js",
+    "main.css": "/static/css/main.46e6a476.css",
+    "main.js": "/static/js/main.50f30cc5.js",
+    "static/js/455.84d939cc.chunk.js": "/static/js/455.84d939cc.chunk.js",
     "static/js/787.5135fc50.chunk.js": "/static/js/787.5135fc50.chunk.js",
     "static/media/avatar.png": "/static/media/avatar.206f49c87caebf722b72.png",
     "static/media/FPGAforImageHistogramEqualization.png": "/static/media/FPGAforImageHistogramEqualization.8f7c70ffefc68e3464ad.png",
+    "static/media/PlantImageClassificationChallenge.png": "/static/media/PlantImageClassificationChallenge.04f4607873e3117d85fc.png",
     "static/media/SmartBraceletsforChildren.png": "/static/media/SmartBraceletsforChildren.cf5296a2a8cb09542a73.png",
     "static/media/aboutme.png": "/static/media/aboutme.14c247ac464e31cdfa76.png",
     "static/media/MultiModelBibliographicDatabaseSystem.png": "/static/media/MultiModelBibliographicDatabaseSystem.ee492380fa826dbc2f8d.png",
@@ -13,18 +15,20 @@
     "static/media/home-bg-blu.png": "/static/media/home-bg-blu.6185dce57593c4685de1.png",
     "static/media/IntelligentObjectGraspinginIndustrialRobotics.png": "/static/media/IntelligentObjectGraspinginIndustrialRobotics.9700ddedc282c16073b3.png",
     "static/media/AIEnhancedWebBookstore.png": "/static/media/AIEnhancedWebBookstore.0b895f1394cae38d921e.png",
+    "static/media/WIP.svg": "/static/media/WIP.9b8bf8aeda5ead82ff246052e8ebe075.svg",
     "static/media/JavaBoardGamePorting.png": "/static/media/JavaBoardGamePorting.4a1e6a82e024ad799650.png",
     "static/media/CommUNIty.png": "/static/media/CommUNIty.db6ca7c85c44a9367070.png",
     "static/media/CryptographicPerformanceImpact.png": "/static/media/CryptographicPerformanceImpact.0ca44684cd5cef1981a0.png",
     "static/media/home2.svg": "/static/media/home2.9f186dc54afb6e6eb2905d2a6e4890de.svg",
     "static/media/pre.svg": "/static/media/pre.d0e7eae5ff81a57a153f.svg",
     "index.html": "/index.html",
-    "main.9f65a394.css.map": "/static/css/main.9f65a394.css.map",
-    "main.a9aa8c13.js.map": "/static/js/main.a9aa8c13.js.map",
+    "static/media/test.md": "/static/media/test.41a2146726a412f208c2.md",
+    "main.46e6a476.css.map": "/static/css/main.46e6a476.css.map",
+    "main.50f30cc5.js.map": "/static/js/main.50f30cc5.js.map",
     "787.5135fc50.chunk.js.map": "/static/js/787.5135fc50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f65a394.css",
-    "static/js/main.a9aa8c13.js"
+    "static/css/main.46e6a476.css",
+    "static/js/main.50f30cc5.js"
   ]
 }
