@@ -9,7 +9,7 @@ function ProjectCards(props) {
   return (
     
     <Card className="project-card-view">
-      {console.log(props.OtherLinkTitle)}
+      
       <Card.Img variant="top" src={require("../../Assets/Projects/"+props.imgPath)} alt="card-img" />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>

@@ -4,14 +4,22 @@
 
 TODO:
 
-- ~~ about section ~~
-- my stuff - about section
-- projects filter
-- blog section
-
-- ~~ fix home images ~~
-- ~~fix navigations ~~
-- add readme
+- [x] about section
+- [x] my stuff pages - about section pages
+    - [ ] fill chess
+    - [ ] fill todo
+    - [ ] fill books
+- [x] projects filter (AI\Top5\SoftEng)
+- [ ] blog section
+    - [ ] list
+    - [ ] filter
+    - [ ] style
+    - [ ] MD files
+- [x] fix home images
+- [x] fix navigations
+- [x] add google analytics
+- [ ]add real readme
+- [ ] real cit
 
 ### Creditis
 

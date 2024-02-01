@@ -7,6 +7,7 @@ import Tilt from "react-parallax-tilt";
 
 import {AiFillGithub} from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { IoIosMail } from "react-icons/io";
 
 import Type from "./Type";
 
@@ -108,6 +109,18 @@ well‑rounded individual contributes more meaningfully to the world around him.
                   <FaLinkedinIn />
                 </a>
               </li>
+
+              <li className="social-icons">
+                <a
+                  href="mailto:gpp.calcagno@gnmail.com"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <IoIosMail />
+                </a>
+              </li>
+
             </ul>
           </Col>
         </Row>
